@@ -1,7 +1,7 @@
 {
   "name": "@jameson/subproject",
   "version": "1.0.0",
-  "description": "This is my sub project, stored in git.",
+  "description": "This is my sub project, stored in git. It has been changed after the v0.0.1 tag.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
